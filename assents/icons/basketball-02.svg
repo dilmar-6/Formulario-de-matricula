@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M40 20C40 31.0456 31.0456 40 20 40C8.9543 40 0 31.0456 0 20C0 8.9543 8.9543 0 20 0C31.0456 0 40 8.9543 40 20Z" fill="#F9A474" fill-rule="evenodd" fill-opacity="0.4" transform="translate(4 4)" />
+    <path d="M40 20C40 31.0456 31.0456 40 20 40C8.9543 40 0 31.0456 0 20C0 8.9543 8.9543 0 20 0C31.0456 0 40 8.9543 40 20Z" fill="none" stroke-width="3" stroke="#F9A474" transform="translate(4 4)" />
+    <path d="M0 0C4.56062 4.8578 11.8217 8 20 8C28.1784 8 35.4394 4.8578 40 0" fill="none" stroke-width="3" stroke="#F9A474" transform="translate(4 24)" />
+    <path d="M0 0L0 40" fill="none" stroke-width="3" stroke="#F9A474" stroke-linecap="round" stroke-linejoin="round" transform="translate(24 4)" />
+    <path d="M0.311198 0C-0.452242 3 0.0801382 8 3.13242 12C6.3416 16.2056 8.36486 22 0.738638 28" fill="none" stroke-width="3" stroke="#F9A474" stroke-linecap="round" stroke-linejoin="round" transform="translate(10 10)" />
+    <path d="M5.68877 0C6.45217 3 5.91977 8 2.86757 12C-0.341631 16.2056 -2.36483 22 5.26137 28" fill="none" stroke-width="3" stroke="#F9A474" stroke-linecap="round" stroke-linejoin="round" transform="translate(32 10)" />
+  </g>
+</svg>
