@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/nome-da-tua-imagem.png" alt="Demonstração do Formulário de Matrícula" width="800">
+  <img src="./assets/banner-apresentacao.png" alt="Banner do Formulário" width="900">
 </p>
 
 # 📝 Formulário de Matrícula - Estrelas do Amanhã
