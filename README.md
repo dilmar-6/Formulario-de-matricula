@@ -2,6 +2,8 @@
   <img src="./assents/banner-a.png.png" alt="Banner do Formulario" width="800">
 </p>
 
+![Capa do Formulário de Matrícula](assents/banner-a.png.png)
+
 # 📝 Formulário de Matrícula - Estrelas do Amanhã
 
 Uma interface web moderna e acolhedora para o processo de matrícula escolar, focada em usabilidade e design limpo.
