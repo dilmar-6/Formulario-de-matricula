@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assents/banner-a.png.png" alt="Banner do Formulario" width="800">
+  <img src="assents/banner-a.png.png" alt="Banner do Formulário de Matrícula" width="800">
 </p>
-
-![Capa do Formulário de Matrícula](assents/banner-a.png.png)
 
 # 📝 Formulário de Matrícula - Estrelas do Amanhã
 
